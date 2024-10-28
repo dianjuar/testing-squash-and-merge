@@ -1,3 +1,3 @@
 # testing-squash-and-merge
 
-Testing with a commit message
+Testing with a commit message.
