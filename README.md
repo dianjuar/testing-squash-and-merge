@@ -2,4 +2,5 @@
 
 Testing with a commit message
 A
+B
 
